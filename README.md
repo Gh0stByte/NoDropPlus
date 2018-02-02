@@ -6,6 +6,7 @@
 
 
 ### Installation
+* Download NoDropPlus [Spigot](https://www.spigotmc.org/resources/nodropplus.25318/)
 * Drop NoDropPlus.jar in to your Plugins folder
 * Restart/Reload your server
 * Configure items/message
