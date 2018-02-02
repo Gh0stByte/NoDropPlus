@@ -1,0 +1,9 @@
+name: NoDropPlus
+main: com.gh0stbyte.NoDrop.NoDrop
+version: 1.0
+author: Gh0stByte
+commands:
+   nodropplus:
+      description: Reload Config
+      usage: /nodropplus
+

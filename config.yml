@@ -1,0 +1,14 @@
+# Configuration for NoDropPlus by Gh0stByte of Gh0stByte.ga.
+# Enabled - Enable/Disable NoDrop. Includes keeping on death.
+# Message - Message when you try to drop a NoDrop item. (You can use & or § for chat colors)
+# KeepOnDeath - When you die, you keep the configured Items.
+# Items - Items not allowed to drop, and that you keep on death.
+
+NoDropPlus:
+  Enabled: true
+  KeepOnDeath: true
+  Message: "&7[&3NoDropPlus&7] &c&lHey! &3You aren't allowed to drop that item."
+  Items:
+  - DIAMOND
+  - DIAMOND_PICKAXE
+

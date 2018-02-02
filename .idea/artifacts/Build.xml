@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Build">
+    <output-path>$PROJECT_DIR$/../Spigot1.9/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="NoDropPlus.jar">
+        <element id="module-output" name="NoDrop" />
+        <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>
